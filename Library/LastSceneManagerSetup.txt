@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/PS4_GBEmu/GBEmuScene.unity
+  isLoaded: 1
+  isActive: 1
